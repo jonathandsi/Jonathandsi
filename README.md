@@ -10,10 +10,11 @@ Sou programador Front End. Atualmete desenvolvo projetos pessoais e Freelancer c
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-js"/>
 <br>
 <br>
+<p>
 Contate-me <br>
 <a href="https://www.linkedin.com/feed/"><img width="90px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
+</p>
 
 
 
